@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @henry2100
 - 👀 I’m interested in technology, web and software development
 - 🌱 I’m currently learning django and react
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me: henryadedugba@gmail.com
 
 <!---
