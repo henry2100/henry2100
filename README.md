@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henry2100 (Henry Ebose Adedugba)
-- 👀 I’m passionate about technology, web development, and software engineering.
+- 👀 I’m passionate about technology, Software development and Artificial Intelligence.
 - 🌱 I specialize in **Frontend Development** with React.js and **Fullstack Development** using the MERN stack.
 - 💼 Open to collaborations on innovative software projects and opportunities to contribute to impactful development teams.
 - 📫 Reach me:
